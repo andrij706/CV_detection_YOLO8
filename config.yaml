@@ -1,0 +1,9 @@
+path: E:\python\projects\cv\Object_detection\Project2\data
+train: E:\python\projects\cv\Object_detection\Project2\data\images\train
+val: E:\python\projects\cv\Object_detection\Project2\data\images\val
+test: E:\python\projects\cv\Object_detection\Project2\data\images\val
+
+nc: 2
+names:
+  0: bird
+  1: squirrel
